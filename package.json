@@ -17,6 +17,7 @@
     "core-js": "^3.8.3",
     "register-service-worker": "^1.7.2",
     "roboto-fontface": "*",
+    "sqlite3": "^5.0.7",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuetify": "^3.0.0-beta.0",
